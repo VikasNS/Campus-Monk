@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/coordinate_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <android.support.v7.widget.Toolbar android:theme="@style/ThemeOverlay.AppCompat.Dark" android:id="@+id/toolbar" android:background="#2196f3" android:layout_width="match_parent" android:layout_height="wrap_content" app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp">
+            <RadioButton android:id="@+id/radioButton_male" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Male" android:layout_weight="0.17"/>
+            <RadioButton android:id="@+id/radioButton_female" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Female" android:layout_weight="0.17"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_margin="5dp" android:layout_weight="0.5">
+                <TextView android:textSize="17sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Shirt Size"/>
+                <Spinner android:id="@+id/uniform_shirt_size_spinner" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_margin="5dp" android:layout_weight="0.5">
+                <TextView android:textSize="17sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Pant Size"/>
+                <Spinner android:id="@+id/uniform_pant_size_spinner" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+            <TextView android:textSize="17sp" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Price" android:layout_weight="3"/>
+            <EditText android:id="@+id/sell_uniform_price_edit_text" android:layout_width="0dp" android:layout_height="wrap_content" android:ems="4" android:layout_weight="2" android:inputType="phone"/>
+            <TextView android:textSize="17sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="RS"/>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="4"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+            <TextView android:textSize="17sp" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Phone no" android:layout_weight="3"/>
+            <EditText android:id="@+id/sell_uniform_phone_number_edit_text" android:layout_width="0dp" android:layout_height="wrap_content" android:ems="10" android:layout_weight="7" android:inputType="phone"/>
+        </LinearLayout>
+        <Button android:textSize="17sp" android:layout_gravity="center" android:id="@+id/sell_uniform_submit_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="10dp" android:text="Submit"/>
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

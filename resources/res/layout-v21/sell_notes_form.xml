@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/sell_notes_coordinate_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar android:theme="@style/ThemeOverlay.AppCompat.Dark" android:id="@+id/toolbar" android:background="#2196f3" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:elevation="4dp" app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+            <TextView android:textSize="17sp" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Name" android:layout_weight="3"/>
+            <EditText android:id="@+id/unit_name" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="7"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+            <TextView android:textSize="17sp" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Price" android:layout_weight="3"/>
+            <EditText android:id="@+id/price_edit_text" android:layout_width="0dp" android:layout_height="wrap_content" android:ems="4" android:layout_weight="2" android:inputType="phone"/>
+            <TextView android:textSize="17sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="RS"/>
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="4"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+            <TextView android:textSize="17sp" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Phone no" android:layout_weight="3"/>
+            <EditText android:id="@+id/phone_number" android:layout_width="0dp" android:layout_height="wrap_content" android:ems="10" android:layout_weight="7" android:inputType="phone"/>
+        </LinearLayout>
+        <Button android:textSize="17sp" android:layout_gravity="center" android:id="@+id/submit_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="10dp" android:text="Submit"/>
+        <TextView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="*Notes:price for 1 sheet(Front and back) is 0.35ps"/>
+        <TextView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="*Textbook:50% of the original price"/>
+    </LinearLayout>
+    <RelativeLayout android:id="@+id/adViewContainer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true"/>
+</RelativeLayout>

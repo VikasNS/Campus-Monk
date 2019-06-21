@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.v7.widget.Toolbar android:theme="@style/ThemeOverlay.AppCompat.Dark" android:id="@+id/toolbar" android:background="#2196f3" android:layout_width="match_parent" android:layout_height="wrap_content" app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+    <TextView android:textSize="17sp" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:text="UNIFORM"/>
+    <android.support.v7.widget.CardView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp">
+                <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="0.33">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="SEX:"/>
+                    <TextView android:id="@+id/sex_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="0.33">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Pant Size:"/>
+                    <TextView android:id="@+id/pant_size_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="0.33">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Shirt Size:"/>
+                    <TextView android:id="@+id/shirt_size_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="0.33">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Price:"/>
+                    <TextView android:id="@+id/uniform_price_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5dp">
+                <Button android:id="@+id/uniform_edit_button" android:layout_width="0dp" android:layout_height="wrap_content" android:text="EDIT" android:layout_weight="0.33"/>
+                <Button android:id="@+id/uniform_delete_button" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Delete" android:layout_weight="0.33"/>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <TextView android:textSize="17sp" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:text="NOTES"/>
+    <android.support.v7.widget.RecyclerView android:id="@+id/my_products_recycler_view" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

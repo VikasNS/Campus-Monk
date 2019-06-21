@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp">
+    <TextView android:textSize="17sp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="1)Connect to wifi(CDOT-MSRIT) with Password: p@ssw0rd"/>
+    <TextView android:textSize="17sp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="2)Open browser and type 172.1.2.2:8090"/>
+    <TextView android:textSize="17sp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="3)In the User feild type guest"/>
+    <TextView android:textSize="17sp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="4)In the password feild type msrit"/>
+    <TextView android:textSize="17sp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="5)Click on Submit and Enjoy"/>
+</LinearLayout>

@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="April_EVENT_DATE">
+        <item>14-04-17</item>
+        <item>29-04-17</item>
+    </array>
+    <array name="April_EVENT_DAY">
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+    <array name="April_EVENT_NAME">
+        <item>Good Friday</item>
+        <item>Basava Jayanthi</item>
+    </array>
+    <array name="August_EVENT_DATE">
+        <item>04-08-17</item>
+        <item>15-08-17</item>
+        <item>24-08-17</item>
+        <item>25-08-17</item>
+    </array>
+    <array name="August_EVENT_DAY">
+        <item>Friday</item>
+        <item>Tuesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </array>
+    <array name="August_EVENT_NAME">
+        <item>Varamahalakshmi</item>
+        <item>Independence Day</item>
+        <item>Swarna Gowri</item>
+        <item>Ganesh Chaturthi</item>
+    </array>
+    <array name="Basic_Civil_Engineering_and_Mechanics">
+        <item>Unit I Scope of different fields of Civil Engineering</item>
+        <item>Unit II Introduction to Engineering Mechanics</item>
+        <item>Unit III Equilibrium of force systems</item>
+        <item>Unit IV Centroid and moment of inertia</item>
+        <item>Unit V Friction</item>
+    </array>
+    <array name="Basic_Civil_Engineering_and_Mechanics_Notes">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSGlVVUxJUEY4dGM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTXA1THFfZkdBaTg</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGUmhKWnhCUjN6OFk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYW9ZMmZUYTE0cWM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSXRoekJJY2paR0k</item>
+    </array>
+    <array name="Basic_Electrical_Engineering">
+        <item>Electromagnetism &amp; DC circuits</item>
+        <item>Single phase circuits</item>
+        <item>Three phase circuits&amp; Power</item>
+        <item>DC generator &amp; motors &amp; AC generators</item>
+        <item>Transformers &amp; Three Phase Induction Motors</item>
+    </array>
+    <array name="Basic_Electrical_Engineering_Notes">
+        <item>https://www.dropbox.com/s/6sgc37txl2c9val/Electrical%20Unit%201.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/jioymphotz7oa95/unit%202%20Single%20Phase%20ac.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/hx8z8wubq6kad5e/electrical%20unit%203.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/wsqcztupb6skeuh/Dc%20motor%20machine%20geenrator.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/pf54oummd6ez5p2/unit%205%20Transformers%20and%203%20phase%20induction%20motor.pdf?dl=1</item>
+    </array>
+    <array name="Basic_Electronics_Electronics_Communication_Engineering">
+        <item>Unit I Semiconductor Diodes &amp; Transistors</item>
+        <item>Unit II BJT Biasing &amp; Operational Amplifiers</item>
+        <item>Unit III Digital Electronics</item>
+        <item>Unit IV Flip Flops ,Microprocessor &amp; Microcontrollers</item>
+        <item>Unit V Communication Systems &amp; Transducers</item>
+    </array>
+    <array name="Basic_Electronics_Electronics_Communication_Engineering_Notes">
+        <item>https://www.dropbox.com/s/bdew1nthfauxh7n/Unit%201%20Basic%20Electronics.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/m21byotagvmiuxt/Unit%202%20ec.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/0wkldn9lkw7v51j/Ec%20unit%203.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/tdm3nyvndp87o4o/Ec%20unit%204.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/99i0wm93le37e6e/Unit%205communication%20system.pdf?dl=1</item>
+    </array>
+    <array name="C1">
+        <item>Day</item>
+        <item>9.00-9.55</item>
+        <item>9.55-10.50</item>
+        <item>11.05-12.00</item>
+        <item>12.50-1.45</item>
+        <item>1.45-2.40</item>
+        <item>2.40-3.35</item>
+        <item>3.35-4.30</item>
+    </array>
+    <array name="Computer_Aided_Engineering_Drawing">
+        <item>Unit I CAD Software</item>
+        <item>Unit II Projection of Solids</item>
+        <item>Unit III Isometric Projection</item>
+        <item />
+        <item />
+    </array>
+    <array name="Computer_Aided_Engineering_Drawing_Notes">
+        <item>Unit I CAD Software</item>
+        <item>Unit II Projection of Solids</item>
+        <item>Unit III Isometric Projection</item>
+        <item />
+        <item />
+    </array>
+    <array name="Constitution_of_India_Professional_Ethics">
+        <item>Unit I Preamble to the constitution of India</item>
+        <item>Unit II Relevance of Directive principles</item>
+        <item>Unit III Union Executive-President</item>
+        <item>Unit IV Emergency provisions</item>
+        <item>Unit V Scope and Aim of Engineering ethics</item>
+    </array>
+    <array name="Constitution_of_India_Professional_Ethics_Notes">
+        <item>https://www.dropbox.com/s/u8p27qwbtj95a1o/unit%201%20Const-Reduced.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/dllekepyio4t1n7/unit%202%20const.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/8biyi7qi1ns99ol/unit%203%20const.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/62qq6nxiehhe822/unit%204%20const.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/hm18y34u4s114rf/unit%205%20constitution.pdf?dl=1</item>
+    </array>
+    <array name="December_EVENT_DATE">
+        <item>01-12-17</item>
+        <item>25-12-17</item>
+    </array>
+    <array name="December_EVENT_DAY">
+        <item>Friday</item>
+        <item>Monday</item>
+    </array>
+    <array name="December_EVENT_NAME">
+        <item>Id-Milad</item>
+        <item>Christmas</item>
+    </array>
+    <array name="Elements_of_Mechanical_Engineering">
+        <item>Unit I Energy resources Boilers &amp; turbine</item>
+        <item>Unit II Internal combustion Engines,Refrigeration &amp; Air conditioning:</item>
+        <item>Unit III Metal removal processes,Drilling,Milling,Grinding</item>
+        <item>Unit IV Computer numerical control Machines,Welding,Soldering &amp; brazing:</item>
+        <item>Unit V Power transmission,Pulleys,Gear drives,Train &amp; Lubrication:</item>
+    </array>
+    <array name="Elements_of_Mechanical_Engineering_Notes">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSGJyVUtOcTB0aHM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGNV9nei1ndTNfTlk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYkpwR1FWX0hocHc</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGWlVrc0FsY1NDa1k</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGNVF1NTBPZkh4RlE</item>
+    </array>
+    <array name="Engineering_Chemistry">
+        <item>Electrochemical Cells</item>
+        <item>Batteries</item>
+        <item>Corrosion Science</item>
+        <item>Chemistry of nanomaterial</item>
+        <item>Energy sources</item>
+        <item>Water technology</item>
+        <item>Chemistry of polymeric materials</item>
+    </array>
+    <array name="Engineering_Chemistry_Lab">
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="Engineering_Chemistry_Lab_Notes">
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="Engineering_Chemistry_Notes">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTm5Tb0paR21xZlk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGanlGQnJtMFVYR0E</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSWIybEpjTFpsYkE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVWNpNDlLQVcwTFE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYU14UVcxblZWQWs</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGT1BmV3FnM0t1RGZxRjJfTzhfNnlHUWpGdDRN</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGRVdXclpWai1CU0FJMDhDYzNaVVFIZTBYSnF3</item>
+    </array>
+    <array name="Engineering_Mathematics_I">
+        <item>Unit I Differential Calculus - I</item>
+        <item>Unit II Integral Calculus - I</item>
+        <item>Unit III Integral Calculus - II</item>
+        <item>Unit IV Vector differentiation</item>
+        <item>Unit V Vector integration</item>
+    </array>
+    <array name="Engineering_Mathematics_II">
+        <item>Unit I Differential Calculus - II</item>
+        <item>Unit II First order and first degree differential equations and its applications</item>
+        <item>Unit III Linear differential equations of higher order</item>
+        <item>Unit IV Beta and Gamma Function</item>
+        <item>Unit V Laplace transforms II</item>
+    </array>
+    <array name="Engineering_Mathematics_II_Notes">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGcHdVQ0R6TG51Q3M</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGZktOR3ZPQXNfaDQ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQkJyd1IxY05aa0U</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTW1MaVE2TVZNaEU</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGemcwMms0SXBnLTQ</item>
+    </array>
+    <array name="Engineering_Mathematics_I_Notes">
+        <item>Unit I Differential Calculus - I</item>
+        <item>Unit II Integral Calculus - I</item>
+        <item>Unit III Integral Calculus - II</item>
+        <item>Unit IV Vector differentiation</item>
+        <item>Unit V Vector integration</item>
+    </array>
+    <array name="Engineering_Physics">
+        <item>Elasticity</item>
+        <item>Vibrations</item>
+        <item>Modern Physics</item>
+        <item>Quantum Mechanics</item>
+        <item>Semiconductors</item>
+        <item>Electrical Conductivity in Metals</item>
+        <item>Lasers</item>
+        <item>Optic Fibres</item>
+        <item>Crystal Structures</item>
+    </array>
+    <array name="Engineering_Physics_Lab">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGOGxNUmxaTk9XeWU1LU5RdEppeHQzbHlLZW5v</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGbVBkMGxONVppMmpzd1MzVjlrOGM2dmV5UktJ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGWmRKV0hqa0dmWmF6Yk9TSXNkbTBDWENzMXlz</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVUFjbmVTY0dwSU9lcTZFMEUtQ0JDMjdBOUhj</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYi1xVHV3RGJUQjA</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSDlTWHQ1Qy0tMVE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVWN0QzlXU0NDN0U</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGbmhlSlJ5aDc3Qk0</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVHRzTHZkM3RpbVE</item>
+    </array>
+    <array name="Engineering_Physics_Notes">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGOGxNUmxaTk9XeWU1LU5RdEppeHQzbHlLZW5v</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGbVBkMGxONVppMmpzd1MzVjlrOGM2dmV5UktJ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGWmRKV0hqa0dmWmF6Yk9TSXNkbTBDWENzMXlz</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVUFjbmVTY0dwSU9lcTZFMEUtQ0JDMjdBOUhj</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYi1xVHV3RGJUQjA</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSDlTWHQ1Qy0tMVE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVWN0QzlXU0NDN0U</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGbmhlSlJ5aDc3Qk0</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVHRzTHZkM3RpbVE</item>
+    </array>
+    <array name="Environmental_Studies">
+        <item>UNIT I Environment, Ecology and Biodiversity</item>
+        <item>UNIT II Natural resources</item>
+        <item>UNIT III Energy sources</item>
+        <item>UNIT IV Environmental pollution</item>
+        <item>UNIT V Environmental Protection</item>
+    </array>
+    <array name="Environmental_Studies_Notes">
+        <item>https://www.dropbox.com/s/h8h92ybzw5nnsn6/Evs%20unit%201.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/7dte3ktqt18dd5e/Evs%20unit%202.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/hjw2y82hze5yyd6/Evs%20unit%203.pdf?dl=1</item>
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_A">
+        <item>FRI</item>
+        <item>MAT</item>
+        <item>ME</item>
+        <item>EC</item>
+        <item>CIEP</item>
+        <item>CHY</item>
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_B">
+        <item>FRI</item>
+        <item>ME</item>
+        <item>CIEP</item>
+        <item>CHY</item>
+        <item>EC</item>
+        <item>MAT</item>
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_C">
+        <item>FRI</item>
+        <item>MECH</item>
+        <item>ECE</item>
+        <item>CHEM</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>HOD MEET</item>
+        <item />
+    </array>
+    <array name="FRIDAY_D">
+        <item>CHEM(T)</item>
+        <item>CHEM(T)</item>
+        <item>CHEM(L)</item>
+        <item>CHEM(L)</item>
+        <item>EC</item>
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_E">
+        <item>FRI</item>
+        <item>MATH</item>
+        <item>CONST</item>
+        <item>EC</item>
+        <item>CHEM</item>
+        <item>KANADA</item>
+        <item>HOD MEET</item>
+        <item />
+    </array>
+    <array name="FRIDAY_F">
+        <item>FRI</item>
+        <item>MATH</item>
+        <item>EC</item>
+        <item>CONST.</item>
+        <item>EVS</item>
+        <item>MECH</item>
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_G">
+        <item>FRI</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>EC</item>
+        <item>MECH</item>
+        <item>KAN</item>
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_H">
+        <item>FRI</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+        <item>CHEM</item>
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_I">
+        <item>FRI</item>
+        <item>EC</item>
+        <item>ME</item>
+        <item>MATH</item>
+        <item>AL</item>
+        <item>AL</item>
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_J">
+        <item>FRI</item>
+        <item>MATH</item>
+        <item>PHY</item>
+        <item>PC</item>
+        <item>CS</item>
+        <item>EE</item>
+        <item />
+        <item />
+    </array>
+    <array name="FRIDAY_K">
+        <item>FRI</item>
+        <item>CAED(T)</item>
+        <item>CAED(T)</item>
+        <item>CAED</item>
+        <item>CAED</item>
+        <item>EE</item>
+        <item>CAED</item>
+        <item />
+    </array>
+    <array name="FRIDAY_L">
+        <item>FRI</item>
+        <item>PHY</item>
+        <item>EE</item>
+        <item>MATH</item>
+        <item>CIVIL(T)</item>
+        <item>CIVIL(T)</item>
+        <item>ME</item>
+        <item>HOD MEET</item>
+    </array>
+    <array name="FRIDAY_M">
+        <item>FRI</item>
+        <item>MATH</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>PC</item>
+        <item>CV</item>
+        <item>CAED</item>
+        <item />
+    </array>
+    <array name="FRIDAY_N">
+        <item>FRI</item>
+        <item>CS(L)</item>
+        <item>CS(L)</item>
+        <item>MAT</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>ME</item>
+        <item />
+    </array>
+    <array name="FRIDAY_O">
+        <item>FRI</item>
+        <item>CV</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>CS</item>
+        <item>MAT</item>
+        <item>CAED</item>
+        <item />
+    </array>
+    <array name="FRIDAY_P">
+        <item>FRI</item>
+        <item>MATH</item>
+        <item>PHY</item>
+        <item>CIVIL</item>
+        <item>EE</item>
+        <item>HSS</item>
+        <item>MECH</item>
+        <item />
+    </array>
+    <array name="FRIDAY_Q">
+        <item>FRI</item>
+        <item>PHY(T)</item>
+        <item>PHY(T)</item>
+        <item>PHY(L)</item>
+        <item>PHY(L)</item>
+        <item>MATH</item>
+        <item>CAED</item>
+        <item>HOD</item>
+    </array>
+    <array name="FRIDAY_R">
+        <item>FRI</item>
+        <item>CV</item>
+        <item>ENG</item>
+        <item>EE</item>
+        <item>CS TUTORIAL</item>
+        <item>CS TUTORIAL</item>
+        <item>CAED</item>
+        <item />
+    </array>
+    <array name="February_EVENT_DATE">
+        <item>24-02-17</item>
+    </array>
+    <array name="February_EVENT_DAY">
+        <item>Friday</item>
+    </array>
+    <array name="February_EVENT_NAME">
+        <item>Maha Shivarathri</item>
+    </array>
+    <array name="Fundamentals_of_Computing">
+        <item>Unit I Overview and Problem Solving with C</item>
+        <item>Unit II Control Structures in C</item>
+        <item>Unit III Arrays and Matrices</item>
+        <item>Unit IV Modular Programming with Functions</item>
+        <item>Unit V Pointers and Files</item>
+    </array>
+    <array name="Fundamentals_of_Computing_Lab">
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="Fundamentals_of_Computing_Lab_Notes">
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="Fundamentals_of_Computing_Notes">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGT2JwODhFX0RyMlU</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVXltZDFFLWFhLUk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGZVBfTTdEdTFRSWs</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaEFrMElqUzJVeWc</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGR211dlFrUUpEUFk</item>
+    </array>
+    <array name="Fundamentals_of_Computing_Notes_Download_link">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaTZqRktZUmozNDQ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaTZqRktZUmozNDQ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaTZqRktZUmozNDQ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaTZqRktZUmozNDQ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaTZqRktZUmozNDQ</item>
+    </array>
+    <array name="January_EVENT_DATE">
+        <item>14-01-17</item>
+        <item>26-01-17</item>
+    </array>
+    <array name="January_EVENT_DAY">
+        <item>Saturday</item>
+        <item>Thursday</item>
+    </array>
+    <array name="January_EVENT_NAME">
+        <item>Makara Sankaranthi</item>
+        <item>Republic Day</item>
+    </array>
+    <array name="July_EVENT_DATE">
+    </array>
+    <array name="July_EVENT_DAY">
+    </array>
+    <array name="July_EVENT_NAME">
+    </array>
+    <array name="June_EVENT_DATE">
+        <item>26-06-17</item>
+    </array>
+    <array name="June_EVENT_DAY">
+        <item>Monday</item>
+    </array>
+    <array name="June_EVENT_NAME">
+        <item>Ramzan</item>
+    </array>
+    <array name="Kannada_manasu">
+        <item>Unit I Kathana Vibaga</item>
+        <item>Unit II Prabandhalekhana</item>
+        <item>Unit III Kavana</item>
+        <item>Unit IV Thantragnanabaraha </item>
+        <item>Unit V Janapadakavya</item>
+    </array>
+    <array name="Kannada_manasu_Notes">
+        <item>Unit I Kathana Vibaga</item>
+        <item>Unit II Prabandhalekhana</item>
+        <item>Unit III Kavana</item>
+        <item>Unit IV Thantragnanabaraha </item>
+        <item>Unit V Janapadakavya</item>
+    </array>
+    <array name="MONDAY_A">
+        <item>MON</item>
+        <item>CHY TUTORIAL</item>
+        <item>CHY TUTORIAL</item>
+        <item>CHY LAB</item>
+        <item>CHY LAB</item>
+        <item>MAT TUTORIAL</item>
+        <item>MAT TUTORIAL</item>
+        <item />
+    </array>
+    <array name="MONDAY_B">
+        <item>MON</item>
+        <item>MEL</item>
+        <item>MEL</item>
+        <item>MEL</item>
+        <item>MEL</item>
+        <item>EC</item>
+        <item>KAN</item>
+        <item />
+    </array>
+    <array name="MONDAY_C">
+        <item>MON</item>
+        <item>EC</item>
+        <item>CHEM</item>
+        <item>MATH</item>
+        <item>MECH(T)</item>
+        <item>MECH(T)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+    </array>
+    <array name="MONDAY_D">
+        <item>MON</item>
+        <item>CHEM</item>
+        <item>EC</item>
+        <item>MECH</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>KAN</item>
+        <item />
+    </array>
+    <array name="MONDAY_E">
+        <item>MON</item>
+        <item>CHEM</item>
+        <item>MECH</item>
+        <item>KANADA</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item />
+        <item />
+    </array>
+    <array name="MONDAY_F">
+        <item>MON</item>
+        <item>EC</item>
+        <item>CONST.</item>
+        <item>MECH</item>
+        <item>CHY(T)</item>
+        <item>CHY(T)</item>
+        <item>CHY(L)</item>
+        <item>CHY(L)</item>
+    </array>
+    <array name="MONDAY_G">
+        <item>MON</item>
+        <item>EVS</item>
+        <item>MATH</item>
+        <item>KAN</item>
+        <item>CONST.</item>
+        <item>MECH</item>
+        <item />
+        <item />
+    </array>
+    <array name="MONDAY_H">
+        <item>MON</item>
+        <item>EC</item>
+        <item>EVS</item>
+        <item>MATH</item>
+        <item>MECH</item>
+        <item>CONST.</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="MONDAY_I">
+        <item>MON</item>
+        <item>EVS</item>
+        <item>CHEM</item>
+        <item>MECH</item>
+        <item>EC</item>
+        <item>Const.</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="MONDAY_J">
+        <item>MON</item>
+        <item>EE</item>
+        <item>CV</item>
+        <item>MATH</item>
+        <item>PHY(T)</item>
+        <item>PHY(T)</item>
+        <item>PHY(L)</item>
+        <item>PHY(L)</item>
+    </array>
+    <array name="MONDAY_K">
+        <item>MON</item>
+        <item>PHY</item>
+        <item>MAT</item>
+        <item>CS</item>
+        <item>EE</item>
+        <item>CIVIL(T)</item>
+        <item>CIVIL(T)</item>
+        <item />
+    </array>
+    <array name="MONDAY_L">
+        <item>MON</item>
+        <item>CS</item>
+        <item>CIVIL</item>
+        <item>PHY</item>
+        <item>EE</item>
+        <item>MATH.</item>
+        <item>CS(L)</item>
+        <item>CS(L)</item>
+    </array>
+    <array name="MONDAY_M">
+        <item>MON</item>
+        <item>CV(T)</item>
+        <item>CV(T)</item>
+        <item>MATH</item>
+        <item>CS</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item />
+    </array>
+    <array name="MONDAY_N">
+        <item>MON</item>
+        <item>CS</item>
+        <item>EE</item>
+        <item>MAT</item>
+        <item>CV(T)</item>
+        <item>CV(T)</item>
+        <item />
+        <item />
+    </array>
+    <array name="MONDAY_O">
+        <item>MON</item>
+        <item>CAED</item>
+        <item>CAED</item>
+        <item>CAED</item>
+        <item>CAED</item>
+        <item>CV</item>
+        <item>EE</item>
+        <item />
+    </array>
+    <array name="MONDAY_P">
+        <item>MON</item>
+        <item>EE</item>
+        <item>CS</item>
+        <item>HSS</item>
+        <item>CAED(T)</item>
+        <item>CAED(T)</item>
+        <item>CAED</item>
+        <item>CAED</item>
+    </array>
+    <array name="MONDAY_Q">
+        <item>MON</item>
+        <item>CS(L)</item>
+        <item>CS(L)</item>
+        <item>PROCOM</item>
+        <item>MATH</item>
+        <item>CIVIL</item>
+        <item>PHY</item>
+        <item />
+    </array>
+    <array name="MONDAY_R">
+        <item>MON</item>
+        <item>EVS</item>
+        <item>CHY</item>
+        <item>KAN</item>
+        <item>MEL</item>
+        <item>MEL</item>
+        <item>MEL</item>
+        <item>MEL</item>
+    </array>
+    <array name="March_EVENT_DATE">
+        <item>29-03-17</item>
+    </array>
+    <array name="March_EVENT_DAY">
+        <item>Wednesday</item>
+    </array>
+    <array name="March_EVENT_NAME">
+        <item>Chandrammana Amavasya</item>
+    </array>
+    <array name="May_EVENT_DATE">
+        <item>01-05-17</item>
+    </array>
+    <array name="May_EVENT_DAY">
+        <item>Monday</item>
+        <item />
+    </array>
+    <array name="May_EVENT_NAME">
+        <item>May Day</item>
+    </array>
+    <array name="NAVIGATION_ANSWER">
+        <item>As sweet as Sugar.! The best in this college</item>
+        <item>APEX BLOCK , LEVEL 2,AB201</item>
+        <item>APEX BLOCK , LEVEL 2,AB202</item>
+        <item>APEX BLOCK , LEVEL 2,AB203</item>
+        <item>APEX BLOCK , LEVEL 2,AB204</item>
+        <item>APEX BLOCK , LEVEL 2,AB209</item>
+        <item>APEX BLOCK , LEVEL 2,AB210</item>
+        <item>APEX BLOCK , LEVEL 2,AB213</item>
+        <item>APEX BLOCK , LEVEL 2,AB214</item>
+        <item>APEX BLOCK , LEVEL 2,AB214</item>
+        <item>APEX BLOCK , LEVEL 2,AB214</item>
+        <item>APEX BLOCK , LEVEL 3,AB302</item>
+        <item>APEX BLOCK , LEVEL 3,AB304</item>
+        <item>APEX BLOCK , LEVEL 3,AB305</item>
+        <item>APEX BLOCK , LEVEL 3,AB306</item>
+        <item>APEX BLOCK , LEVEL 3,AB307</item>
+        <item>APEX BLOCK , LEVEL 3,AB308</item>
+        <item>APEX BLOCK , LEVEL 3,AB309</item>
+        <item>APEX BLOCK , LEVEL 3,AB312</item>
+        <item>APEX BLOCK , LEVEL 3,AB314</item>
+        <item>APEX BLOCK , LEVEL 3,AB314</item>
+        <item>APEX BLOCK , LEVEL 3,AB315</item>
+        <item>APEX BLOCK , LEVEL 3,AB315</item>
+        <item>APEX BLOCK , LEVEL 3,AB316</item>
+        <item>APEX BLOCK , LEVEL 3,AB317</item>
+        <item>APEX BLOCK , LEVEL 4,AB401</item>
+        <item>APEX BLOCK , LEVEL 4,AB403</item>
+        <item>APEX BLOCK , LEVEL 4,AB405</item>
+        <item>APEX BLOCK , LEVEL 4,AB405</item>
+        <item>APEX BLOCK , LEVEL 4,AB409</item>
+        <item>APEX BLOCK , LEVEL 4,AB409</item>
+        <item>APEX BLOCK , LEVEL 4,AB409</item>
+        <item>APEX BLOCK , LEVEL 4,AB412</item>
+        <item>APEX BLOCK , LEVEL 4,AB413</item>
+        <item>APEX BLOCK , LEVEL 6,AB601</item>
+        <item>APEX BLOCK , LEVEL 6,AB606</item>
+        <item>APEX BLOCK , LEVEL 6,AB609</item>
+        <item>APEX BLOCK , LEVEL 7,AB703</item>
+        <item>APEX BLOCK , LEVEL 7,AB705</item>
+        <item>APEX BLOCK , LEVEL 7,AB706</item>
+        <item>APEX BLOCK , LEVEL 7,AB710</item>
+        <item>APEX BLOCK , LEVEL 7,AB711</item>
+        <item>APEX BLOCK , LEVEL 7,AB713</item>
+        <item>APEX BLOCK , LEVEL 8,AB808</item>
+        <item>APEX BLOCK , LEVEL 8,AB804/A AND AB804B</item>
+        <item>ESB BLOCK , LEVEL 1,ESB101</item>
+        <item>ESB BLOCK , LEVEL 1,ESB102</item>
+        <item>ESB BLOCK , LEVEL 1,ESB117</item>
+        <item>ESB BLOCK , LEVEL 2,ESB201</item>
+        <item>ESB BLOCK , LEVEL 2,ESB213</item>
+        <item>ESB BLOCK , LEVEL 2,ESB220</item>
+        <item>ESB BLOCK , LEVEL 2,ESB221</item>
+        <item>ESB BLOCK , LEVEL 2,ESB221</item>
+        <item>ESB BLOCK , LEVEL 3,ESB301</item>
+        <item>ESB BLOCK , LEVEL 3,ESB304</item>
+        <item>ESB BLOCK , LEVEL 3,ESB308</item>
+        <item>ESB BLOCK , LEVEL 3,EAB317</item>
+        <item>ESB BLOCK , LEVEL 3,ESB319</item>
+        <item>ESB BLOCK , LEVEL 3,ESB322</item>
+        <item>ESB BLOCK , LEVEL 4,ESB402</item>
+        <item>ESB BLOCK , LEVEL 4,ESB404</item>
+        <item>ESB BLOCK , LEVEL 4,ESB405</item>
+        <item>ESB BLOCK , LEVEL 4,ESB409</item>
+        <item>ESB BLOCK , LEVEL 4,ESB410</item>
+        <item>ESB BLOCK , LEVEL 4,ESB412 and ESB413</item>
+        <item>ESB BLOCK , LEVEL 5,ESB502</item>
+        <item>ESB BLOCK , LEVEL 5,ESB532</item>
+        <item>ESB BLOCK , LEVEL 5,ESB511</item>
+    </array>
+    <array name="NAVIGATION_PLACE_KEYWORD_ONE">
+        <item>INFORMATION SCIENCE BRANCH</item>
+        <item>PRINCIPAL OFFICE</item>
+        <item>CHIEF OF FINANCE</item>
+        <item>ACADEMIC REGISTRER</item>
+        <item>ADMINISTRATION REGISTRAR</item>
+        <item>VICE PRINCIPAL</item>
+        <item>CHIEF EXECUTIVE</item>
+        <item>ADMISSION</item>
+        <item>SCHOLARSHIP</item>
+        <item>PURCHASE</item>
+        <item>ACCOUNTS</item>
+        <item>ESTABLISHMENT</item>
+        <item>CHIEF ENGINEER</item>
+        <item>PROVIDENT FUND SCHEME</item>
+        <item>NATIONAL SERVICE SCHEME OFFICE</item>
+        <item>ALUMNI ASSOCIATION</item>
+        <item>APEX BLOCK EXAM ROOM ONE</item>
+        <item>EXAMINATION OFFICE</item>
+        <item>CONTROLLER OF EXAMINATION</item>
+        <item>VALUATION CENTRE</item>
+        <item>COMPUTER NETWORK</item>
+        <item>INTERNET CENTRE</item>
+        <item>ISO</item>
+        <item>IQAC OFFICE</item>
+        <item>UNIVERSITY COORDINATOR VTU</item>
+        <item>CHIEF PROCTOR OFFICE</item>
+        <item>DEPARTMENT LIBRARY MCA</item>
+        <item>DEPARTMENT OF COMPUTER APPLICATIONS</item>
+        <item>MCA LAB 1</item>
+        <item>MCA LAB 2</item>
+        <item>R &amp; D LAB</item>
+        <item>BOARD ROOM</item>
+        <item>CONSULTANCY LAB</item>
+        <item>SYNDICATE ROOM</item>
+        <item>SYNDICATE ROOM 2</item>
+        <item>COMMON ROOM</item>
+        <item>PHYSICS LABORATORY</item>
+        <item>PHYSICS DEPARTMENT</item>
+        <item>LIBRARY AND INFORMATION CENTRE</item>
+        <item>DEAPRTMENT OF HUMANITIES LAB</item>
+        <item>HUMANITIES DEPARTMENT</item>
+        <item>MATH DEPARTMENT LIBRARY</item>
+        <item>MATH FACULTY ROOM</item>
+        <item>MATH DEPARTMENT</item>
+        <item>FACULTY LOUNGE LADIES</item>
+        <item>APEX AUDITORIUM</item>
+        <item>SEMINAR HALL 2</item>
+        <item>SEMINAR HALL 1</item>
+        <item>MSRIT CANTEEN 2</item>
+        <item>DEPARTMENT OF CHEMICAL ENGINEERING</item>
+        <item>MECHANICAL ENGINEERING DEPARTMENT STAFF ROOM 1</item>
+        <item>ADMISSION PROCESS CENTRE</item>
+        <item>CAD LAB</item>
+        <item>CAD LAB</item>
+        <item>DEPARTMENT OF MECHANICAL ENGINEERING</item>
+        <item>IEM DEPARTMENT PROFESSOR AND HEAD</item>
+        <item>COMPUTER LABORATORY</item>
+        <item>MECHANICAL ENGINEERING DEPARTMENT STAFF ROOM 2</item>
+        <item>ENTREPRENEURSHIP DEVELOPMENT CELL</item>
+        <item>NSS OFFICE</item>
+        <item>MECHANICAL ENGINEERING DEPARTMENT STAFF ROOM 3</item>
+        <item>CIVIL DEPARTMENT FACULTY ROOM</item>
+        <item>PROFESSOR AND HEAD CIVIL DEPARTMENT</item>
+        <item>LIBRARY AND INFORMATION CENTRE</item>
+        <item>NEWS PAPERS AND READING ROOM</item>
+        <item>CAED LAB</item>
+        <item>DEPARTMENT OF BIOTECHNOLOGY</item>
+        <item>BIO INFORMATICS LAB</item>
+        <item>CHEMISTRY DEPARTMENT AND CHEMISTRY LABS</item>
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="NAVIGATION_PLACE_KEYWORD_ONE_PATTERN_ARRAY">
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="NAVIGATION_PLACE_KEYWORD_TWO">
+        <item>principle office</item>
+        <item>admission office</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="NAVIGATION_PLACE_KEYWORD_TWO_PATTERN_ARRAY">
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="NAVIGATION_Question">
+        <item>HOW IS INFORMATION SCIENCE BRANCH IN THIS COLLEGE</item>
+        <item>WHERE IS PRINCIPAL OFFICE</item>
+        <item>WHERE IS CHIEF OF FINANCE</item>
+        <item>WHERE IS REGISTRAR (ACADEMIC)</item>
+        <item>WHERE IS REGISTRAR (ADMINISTRATION)</item>
+        <item>WHERE IS VICE PRINCIPAL</item>
+        <item>WHERE IS CHIEF EXECUTIVE</item>
+        <item>WHERE IS ADMISSIONS</item>
+        <item>WHERE IS SCHOLARSHIP SECTION</item>
+        <item>WHERE IS PURCHASE</item>
+        <item>WHERE IS ACCOUNTS</item>
+        <item>WHERE IS ESTABLISHMENT</item>
+        <item>WHERE IS OFFICE OF CHIEF ENGINEER (ESTATE)</item>
+        <item>WHERE IS MSRIT PROVIDENT FUND SCHEME TRUST</item>
+        <item>WHERE IS NATIONAL SERVICE SCHEME OFFICE</item>
+        <item>WHERE IS ALUMNI ASSOCIATION</item>
+        <item>WHERE IS APEX BLOCK EXAM ROOM 1</item>
+        <item>WHERE IS EXAMINATION SECTION</item>
+        <item>WHERE IS CONTROLLER OF EXAMINATIONS</item>
+        <item>WHERE IS VALUATION CENTRE</item>
+        <item>WHERE IS COMPUTER NETWORK</item>
+        <item>WHERE IS INTERNET CENTRE</item>
+        <item>WHERE IS ISO</item>
+        <item>WHERE IS IQAC OFFICE</item>
+        <item>WHERE IS UNIVERSITY COORDINATOR VTU/BU</item>
+        <item>WHERE IS CHIEF PROCTOR OFFICE</item>
+        <item>WHERE IS DEPARTMENT LIBRARY MCA</item>
+        <item>WHERE IS DEPARTMENT OF COMPUTER APPLICATIONS</item>
+        <item>WHERE IS MCA LAB 1</item>
+        <item>WHERE IS MCA LAB 2</item>
+        <item>WHERE IS R&amp;D LAB</item>
+        <item>WHERE IS BOARD ROOM</item>
+        <item>WHERE IS CONSULTANCY LAB</item>
+        <item>WHERE IS SYNDICATE ROOM</item>
+        <item>WHERE IS SYNDICATE ROOM 2</item>
+        <item>WHERE IS COMMON ROOM</item>
+        <item>WHERE IS PHYSICS LABORATORY</item>
+        <item>WHERE IS PHYSICS DEPARTMENT</item>
+        <item>WHERE IS LIBRARY AND INFORMATION CENTRE</item>
+        <item>WHERE IS DEAPRTMENT OF HUMANITIES LAB</item>
+        <item>WHERE IS HUMANITIES DEPARTMENT</item>
+        <item>WHERE IS MATH DEPARTMENT LIBRARY</item>
+        <item>WHERE IS MATH FACULTY ROOM</item>
+        <item>WHERE IS MATH DEPARTMENT</item>
+        <item>WHERE IS FACULTY LOUNGE - LADIES</item>
+        <item>WHERE IS APEX AUDITORIUM</item>
+        <item>WHERE IS SEMINAR HALL 2</item>
+        <item>WHERE IS SEMINAR HALL 1</item>
+        <item>WHERE IS MSRIT CANTEEN 2</item>
+        <item>WHERE IS DEPARTMENT OF CHEMICAL ENGINEERING</item>
+        <item>WHERE IS MECHANICAL ENGINEERING DEPARTMENT STAFF ROOM 1</item>
+        <item>WHERE IS ADMISSION PROCESS CENTRE</item>
+        <item>WHERE IS CAD LABORATORY</item>
+        <item>WHERE IS CAM LABORATORY</item>
+        <item>WHERE IS DEPARTMENT OF MECHANICAL ENGINEERING</item>
+        <item>WHERE IS IEM DEPARTMENT PROFESSOR AND HEAD</item>
+        <item>WHERE IS COMPUTER LABORATORY</item>
+        <item>WHERE IS MECHANICAL ENGINEERING DEPARTMENT STAFF ROOM 2</item>
+        <item>WHERE IS ENTREPRENEURSHIP DEVELOPMENT CELL</item>
+        <item>WHERE IS NSS OFFICE</item>
+        <item>WHERE IS MECHANICAL ENGINEERING DEPARTMENT STAFF ROOM 3</item>
+        <item>WHERE IS CIVIL DEPARTMENT FACULTY ROOM</item>
+        <item>WHERE IS PROFESSOR AND HEAD CIVIL DEPARTMENT</item>
+        <item>WHERE IS LIBRARY AND INFORMATION CENTRE</item>
+        <item>WHERE IS NEWS PAPERS AND READING ROOM</item>
+        <item>WHERE IS CAED LAB</item>
+        <item>WHERE IS DEPARTMENT OF BIOTECHNOLOGY</item>
+        <item>WHERE IS BIO INFORMATICS LAB</item>
+        <item>WHERE IS CHEMISTRY DEPARTMENT AND CHEMISTRY LABS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+        <item>WHERE IS</item>
+    </array>
+    <array name="November_EVENT_DATE">
+        <item>01-11-17</item>
+        <item>06-11-17</item>
+    </array>
+    <array name="November_EVENT_DAY">
+        <item>Wednesday</item>
+        <item>Monday</item>
+    </array>
+    <array name="November_EVENT_NAME">
+        <item>Kannada Rajyothsava</item>
+        <item>Kanakadasa Jayanthi</item>
+    </array>
+    <array name="October_EVENT_DATE">
+        <item>02-10-17</item>
+        <item>05-10-17</item>
+        <item>18-10-17</item>
+        <item>19-10-17</item>
+        <item>20-10-17</item>
+    </array>
+    <array name="October_EVENT_DAY">
+        <item>Monday</item>
+        <item>Thursday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </array>
+    <array name="October_EVENT_NAME">
+        <item>Mahatma Gandhi Jayanthi</item>
+        <item>Maharshi Valmik Jayanthi</item>
+        <item>Naraka Chaturthi</item>
+        <item>Deepavali</item>
+        <item>Bali Padyami</item>
+    </array>
+    <array name="Professional_Communication">
+        <item>WorkBook</item>
+    </array>
+    <array name="Professional_Communication_Notes">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGc0lSODk1bTFKRkU</item>
+    </array>
+    <array name="Question_paper_title">
+        <item>CIE 1</item>
+        <item>CIE 2</item>
+        <item>CIE 3</item>
+        <item>SIE 2017-JAN</item>
+        <item>SIE 2016-JUNE</item>
+        <item>SIE 2016-JAN</item>
+        <item>SIE 2015-JUNE</item>
+        <item>SIE 2015-JAN</item>
+        <item>SIE 2014-JUNE</item>
+        <item>SIE 2013-JAN</item>
+    </array>
+    <array name="SATURDAY_A">
+        <item>SAT</item>
+        <item>EC</item>
+        <item>CIEP</item>
+        <item>ME</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_B">
+        <item>SAT</item>
+        <item>MAT TUTORIAL</item>
+        <item>MAT TUTORIAL</item>
+        <item>ME</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_C">
+        <item>SAT</item>
+        <item>MATH</item>
+        <item>EC</item>
+        <item>CONST</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_D">
+        <item>SAT</item>
+        <item>CONST.</item>
+        <item>MECH</item>
+        <item>EVS</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_E">
+        <item>SAT</item>
+        <item>EC</item>
+        <item>EVS</item>
+        <item>MECH</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_F">
+        <item>SAT</item>
+        <item>CHEM</item>
+        <item>KAN</item>
+        <item>MATH</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_G">
+        <item>SAT</item>
+        <item>EC</item>
+        <item>MATH</item>
+        <item>CHEM</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_H">
+        <item>SAT</item>
+        <item>EVS</item>
+        <item>EC</item>
+        <item>MECH</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_I">
+        <item>SAT</item>
+        <item>ME</item>
+        <item>KAN</item>
+        <item>MATH</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_J">
+        <item>SAT</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>CS</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_K">
+        <item>SAT</item>
+        <item>CS</item>
+        <item>EE</item>
+        <item>HSS</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_L">
+        <item>SAT</item>
+        <item>ME</item>
+        <item>PHY</item>
+        <item>EE</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_M">
+        <item>SAT</item>
+        <item>PHY</item>
+        <item>CV</item>
+        <item>MATH</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_N">
+        <item>SAT</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>CV</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_O">
+        <item>SAT</item>
+        <item>EE</item>
+        <item>ENG</item>
+        <item>MAT</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_P">
+        <item>SAT</item>
+        <item>CIVIL(T)</item>
+        <item>CIVIL(T)</item>
+        <item>MATH</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_Q">
+        <item>SAT</item>
+        <item>CS</item>
+        <item>EE</item>
+        <item>CV</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SATURDAY_R">
+        <item>SAT</item>
+        <item>MAT TUTORIAL</item>
+        <item>MAT TUTORIAL</item>
+        <item>EE</item>
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SUNDAY_H">
+        <item>SUN</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SUNDAY_I">
+        <item>SUN</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SUNDAY_K">
+        <item>SUN</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="SUNDAY_P">
+        <item>SUN</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="September_EVENT_DATE">
+        <item>02-09-17</item>
+        <item>19-09-17</item>
+        <item>29-09-17</item>
+        <item>30-09-17</item>
+    </array>
+    <array name="September_EVENT_DAY">
+        <item>Saturday</item>
+        <item>Tuesday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+    <array name="September_EVENT_NAME">
+        <item>Bakrid</item>
+        <item>Mahalaya Amavasya</item>
+        <item>Mahanavami</item>
+        <item>Vijayadarshami</item>
+    </array>
+    <array name="THURSDAY_A">
+        <item>THUR</item>
+        <item>EVS</item>
+        <item>CHY</item>
+        <item>KAN</item>
+        <item>MEL</item>
+        <item>MEL</item>
+        <item>MEL</item>
+        <item>MEL</item>
+    </array>
+    <array name="THURSDAY_B">
+        <item>THUR</item>
+        <item>EC</item>
+        <item>EVS</item>
+        <item>ME</item>
+        <item>CHY</item>
+        <item>KAN</item>
+        <item>AL</item>
+        <item>AL</item>
+    </array>
+    <array name="THURSDAY_C">
+        <item>THURS</item>
+        <item>CHEM</item>
+        <item>EVS</item>
+        <item>MECH</item>
+        <item>KANADA</item>
+        <item>ECE</item>
+        <item />
+        <item />
+    </array>
+    <array name="THURSDAY_D">
+        <item>THURS</item>
+        <item>MECH</item>
+        <item>EVS</item>
+        <item>CHEM</item>
+        <item>MATH</item>
+        <item>KAN</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="THURSDAY_E">
+        <item>THURS</item>
+        <item>CHEM(T)</item>
+        <item>CHEM(T)</item>
+        <item>CHEM(L)</item>
+        <item>CHEM(L)</item>
+        <item>MECH</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="THURSDAY_F">
+        <item>THURS</item>
+        <item>MECH(T)</item>
+        <item>MECH(T)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+        <item>ED</item>
+        <item>ED</item>
+        <item />
+    </array>
+    <array name="THURSDAY_G">
+        <item>THURS</item>
+        <item>MATHS</item>
+        <item>CHY</item>
+        <item>MECH</item>
+        <item>EC</item>
+        <item>EVS</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="THURSDAY_H">
+        <item>THURS</item>
+        <item>MATH</item>
+        <item>CHEM</item>
+        <item>KAN</item>
+        <item>CONST.</item>
+        <item>EC</item>
+        <item />
+        <item />
+    </array>
+    <array name="THURSDAY_I">
+        <item>THURS</item>
+        <item>MATHS</item>
+        <item>EC</item>
+        <item>Const.</item>
+        <item>CHEM(T)</item>
+        <item>CHEM(T)</item>
+        <item>CHEM(L)</item>
+        <item>CHEM(L)</item>
+    </array>
+    <array name="THURSDAY_J">
+        <item>THURS</item>
+        <item>CS(T)</item>
+        <item>CS(T)</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>CV(T)</item>
+        <item>CV(T)</item>
+        <item />
+    </array>
+    <array name="THURSDAY_K">
+        <item>THURS</item>
+        <item>CIVIL</item>
+        <item>EE</item>
+        <item>MAT</item>
+        <item>HSS</item>
+        <item>CS(L)</item>
+        <item>CS(L)</item>
+        <item>PHY</item>
+    </array>
+    <array name="THURSDAY_L">
+        <item>THURS</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>PROCOM.</item>
+        <item>CAED(T)</item>
+        <item>CAED(T)</item>
+        <item>CAED(L)</item>
+        <item>CAED(L)</item>
+    </array>
+    <array name="THURSDAY_M">
+        <item>THURS</item>
+        <item>EE</item>
+        <item>CS</item>
+        <item>CV</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>PC</item>
+        <item />
+    </array>
+    <array name="THURSDAY_N">
+        <item>THURS</item>
+        <item>CV</item>
+        <item>PHY</item>
+        <item>HSS</item>
+        <item>EE</item>
+        <item>CS(T)</item>
+        <item>CS(T)</item>
+        <item />
+    </array>
+    <array name="THURSDAY_O">
+        <item>THUR</item>
+        <item>MAT TUTORIAL</item>
+        <item>MAT TUTORIAL</item>
+        <item>CS</item>
+        <item>PHY TUTORIAL</item>
+        <item>PHY TUTORIAL</item>
+        <item>PHY LAB</item>
+        <item>PHY LAB</item>
+    </array>
+    <array name="THURSDAY_P">
+        <item>THURS</item>
+        <item>PHY(T)</item>
+        <item>PHY(T)</item>
+        <item>PHY(L)</item>
+        <item>PHY(L)</item>
+        <item>CIVIL</item>
+        <item>EE</item>
+        <item />
+    </array>
+    <array name="THURSDAY_Q">
+        <item>THURS</item>
+        <item>CAED(T)</item>
+        <item>CAED(T)</item>
+        <item>CAED</item>
+        <item>CAED</item>
+        <item>CV</item>
+        <item>EE</item>
+        <item>PROCOM</item>
+    </array>
+    <array name="THURSDAY_R">
+        <item>THUR</item>
+        <item>CAED</item>
+        <item>CAED</item>
+        <item>CAED</item>
+        <item>CAED</item>
+        <item>MAT</item>
+        <item>PHY</item>
+        <item />
+    </array>
+    <array name="TUESDAY_A">
+        <item>TUE</item>
+        <item>CHY</item>
+        <item>MAT</item>
+        <item>ME</item>
+        <item>EVS</item>
+        <item>EC</item>
+        <item>AL</item>
+        <item>AL</item>
+    </array>
+    <array name="TUESDAY_B">
+        <item>TUE</item>
+        <item>CHY TUTORIAL</item>
+        <item>CHY TUTORIAL</item>
+        <item>CHY L</item>
+        <item>CHY L</item>
+        <item>MAT</item>
+        <item>EVS</item>
+        <item />
+    </array>
+    <array name="TUESDAY_C">
+        <item>TUE</item>
+        <item>MATH</item>
+        <item>EVS</item>
+        <item>CONST</item>
+        <item>MECH</item>
+        <item>KANADA</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="TUESDAY_D">
+        <item>TUE</item>
+        <item>EC</item>
+        <item>MECH</item>
+        <item>MATH</item>
+        <item>MECH(T)</item>
+        <item>MECH(T)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+    </array>
+    <array name="TUESDAY_E">
+        <item>TUE</item>
+        <item>MECH</item>
+        <item>EC</item>
+        <item>MATH</item>
+        <item>CHEM</item>
+        <item>CONST</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="TUESDAY_F">
+        <item>TUE</item>
+        <item>MECH</item>
+        <item>CHEM</item>
+        <item>EC</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>KAN</item>
+        <item />
+    </array>
+    <array name="TUESDAY_G">
+        <item>TUE</item>
+        <item>MECH</item>
+        <item>CHY</item>
+        <item>EC</item>
+        <item>CHY(T)</item>
+        <item>CHY(T)</item>
+        <item>CHY(L)</item>
+        <item>CHY(L)</item>
+    </array>
+    <array name="TUESDAY_H">
+        <item>TUE</item>
+        <item>MECH</item>
+        <item>CHEM</item>
+        <item>EC</item>
+        <item>MAT(T)</item>
+        <item>MAT(T)</item>
+        <item>ED</item>
+        <item>ED</item>
+        <item />
+    </array>
+    <array name="TUESDAY_I">
+        <item>TUE</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+        <item>CHEM</item>
+        <item>KAN</item>
+        <item />
+    </array>
+    <array name="TUESDAY_J">
+        <item>TUE</item>
+        <item>PHY</item>
+        <item>CV</item>
+        <item>EE</item>
+        <item>MATH</item>
+        <item>PC</item>
+        <item>CS(L)</item>
+        <item>CS(L)</item>
+    </array>
+    <array name="TUESDAY_K">
+        <item>TUE</item>
+        <item>CS(T)</item>
+        <item>CS(T)</item>
+        <item>CIVIL</item>
+        <item>PHY</item>
+        <item>MAT(T)</item>
+        <item>MAT(T)</item>
+        <item />
+    </array>
+    <array name="TUESDAY_L">
+        <item>TUE</item>
+        <item>PHY(T)</item>
+        <item>PHY(T)</item>
+        <item>PHY(L)</item>
+        <item>PHY(L)</item>
+        <item>MATH</item>
+        <item>CIVIL</item>
+        <item />
+    </array>
+    <array name="TUESDAY_M">
+        <item>TUE</item>
+        <item>CS(L)</item>
+        <item>CS(L)</item>
+        <item>EE</item>
+        <item>PHY(T)</item>
+        <item>PHY(T)</item>
+        <item>PHY(L)</item>
+        <item>PHY(L)</item>
+    </array>
+    <array name="TUESDAY_N">
+        <item>TUE</item>
+        <item>MAT</item>
+        <item>CS</item>
+        <item>HSS</item>
+        <item>ME(T)</item>
+        <item>ME(T)</item>
+        <item>ME</item>
+        <item>ME</item>
+    </array>
+    <array name="TUESDAY_O">
+        <item>TUE</item>
+        <item>CS LAB</item>
+        <item>CS LAB</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>CV TUTORIAL</item>
+        <item>CV TUTORIAL</item>
+        <item />
+    </array>
+    <array name="TUESDAY_P">
+        <item>TUE</item>
+        <item>CS</item>
+        <item>MAT</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>CIVIL</item>
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="TUESDAY_Q">
+        <item>TUE</item>
+        <item>EE </item>
+        <item>MATH</item>
+        <item>PHY</item>
+        <item>CS</item>
+        <item>CV(T)</item>
+        <item>CV(T)</item>
+        <item />
+    </array>
+    <array name="TUESDAY_R">
+        <item>TUE</item>
+        <item>EE</item>
+        <item>MAT</item>
+        <item>CV</item>
+        <item>CS</item>
+        <item>PHY</item>
+        <item>ENG</item>
+        <item />
+    </array>
+    <array name="WEDNESDAY_A">
+        <item>WED</item>
+        <item>ME</item>
+        <item>MAT</item>
+        <item>KAN</item>
+        <item>EC</item>
+        <item>AL</item>
+        <item>AL</item>
+        <item />
+    </array>
+    <array name="WEDNESDAY_B">
+        <item>WED</item>
+        <item>MAT</item>
+        <item>EC</item>
+        <item>CIEP</item>
+        <item>CHY</item>
+        <item>AL</item>
+        <item>AL</item>
+        <item />
+    </array>
+    <array name="WEDNESDAY_C">
+        <item>WED</item>
+        <item>CHY(T)</item>
+        <item>CHY(T)</item>
+        <item>CHY(L)</item>
+        <item>CHY(L)</item>
+        <item>MECH</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="WEDNESDAY_D">
+        <item>WED</item>
+        <item>EC</item>
+        <item>MATH</item>
+        <item>EC</item>
+        <item>CONST.</item>
+        <item>CHEM</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="WEDNESDAY_E">
+        <item>WED</item>
+        <item>EC</item>
+        <item>MATH</item>
+        <item>EVS</item>
+        <item>MECH(T)</item>
+        <item>MECHT)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+    </array>
+    <array name="WEDNESDAY_F">
+        <item>WED</item>
+        <item>EVS</item>
+        <item>MATH</item>
+        <item>CHEM</item>
+        <item>MECH</item>
+        <item>EC</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="WEDNESDAY_G">
+        <item>WED</item>
+        <item>MECH(T)</item>
+        <item>MECH(T)</item>
+        <item>MECH(L)</item>
+        <item>MECH(L)</item>
+        <item>CONST.</item>
+        <item>ED</item>
+        <item>ED</item>
+    </array>
+    <array name="WEDNESDAY_H">
+        <item>WED</item>
+        <item>MAT</item>
+        <item>MECH</item>
+        <item>KAN</item>
+        <item>CHEM(T)</item>
+        <item>CHEM(T)</item>
+        <item>CHEM(L)</item>
+        <item>CHEM(L)</item>
+    </array>
+    <array name="WEDNESDAY_I">
+        <item>WED</item>
+        <item>EC</item>
+        <item>EVS</item>
+        <item>CHEM</item>
+        <item>MECH</item>
+        <item>MATHS(T)</item>
+        <item>MATHS(T)</item>
+        <item />
+    </array>
+    <array name="WEDNESDAY_J">
+        <item>WED</item>
+        <item>CAED(T)</item>
+        <item>CAED(T)</item>
+        <item>CAED(L)</item>
+        <item>CAED(L)</item>
+        <item>CV</item>
+        <item />
+        <item />
+    </array>
+    <array name="WEDNESDAY_K">
+        <item>WED</item>
+        <item>PHY(T)</item>
+        <item>PHY(T)</item>
+        <item>PHY(L)</item>
+        <item>PHY(L)</item>
+        <item>MAT</item>
+        <item>CIVIL</item>
+        <item />
+    </array>
+    <array name="WEDNESDAY_L">
+        <item>WED</item>
+        <item>CS(T)</item>
+        <item>CS(T)</item>
+        <item>CV</item>
+        <item>PROCOM</item>
+        <item>EE</item>
+        <item />
+        <item />
+    </array>
+    <array name="WEDNESDAY_M">
+        <item>WED</item>
+        <item>CAED(T)</item>
+        <item>CAED(T)</item>
+        <item>CAED(L)</item>
+        <item>CAED(L)</item>
+        <item>CS(T)</item>
+        <item>CS(T)</item>
+        <item />
+    </array>
+    <array name="WEDNESDAY_N">
+        <item>WED</item>
+        <item>MAT(T)</item>
+        <item>MAT(T)</item>
+        <item>CV</item>
+        <item>PHY(T)</item>
+        <item>PHY(T)</item>
+        <item>PHY(L)</item>
+        <item>PHY(L)</item>
+    </array>
+    <array name="WEDNESDAY_O">
+        <item>WED</item>
+        <item>CS TUTORIAL</item>
+        <item>CS TUTORIAL</item>
+        <item>CV</item>
+        <item>MAT</item>
+        <item>ENG</item>
+        <item>PHY</item>
+        <item />
+    </array>
+    <array name="WEDNESDAY_P">
+        <item>WED</item>
+        <item>CS(T)</item>
+        <item>CS(T)</item>
+        <item>PHY</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>CS(L)</item>
+        <item>CS(L)</item>
+    </array>
+    <array name="WEDNESDAY_Q">
+        <item>WED</item>
+        <item>MATH(T)</item>
+        <item>MATH(T)</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>CS(T)</item>
+        <item>CS(T)</item>
+        <item />
+    </array>
+    <array name="WEDNESDAY_R">
+        <item>WED</item>
+        <item>CV TUTORIAL</item>
+        <item>CV TUTORIAL</item>
+        <item>MAT</item>
+        <item>EE</item>
+        <item>PHY</item>
+        <item>CS LAB</item>
+        <item>CS LAB</item>
+    </array>
+    <array name="cast_expanded_controller_default_control_buttons">
+        <item>@id/cast_button_type_closed_caption</item>
+        <item>@id/cast_button_type_skip_previous</item>
+        <item>@id/cast_button_type_skip_next</item>
+        <item>@id/cast_button_type_mute_toggle</item>
+    </array>
+    <array name="cast_mini_controller_default_control_buttons">
+        <item>@id/cast_button_type_empty</item>
+        <item>@id/cast_button_type_empty</item>
+        <item>@id/cast_button_type_play_pause_toggle</item>
+    </array>
+    <array name="chemisty_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGN0lYcEx3ekpMUDA</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGM2VOR0trQ3JNZzQ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGRVBCR3ZLSWZjQ2s</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGeUtQbnFZUHNxNFpqSTJHV3VDQ2JrQUF1MTVZ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGS3BNWDFsRkpsQWs</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGT0c4RWNuQjZFS28</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGa3AzdjNQeWl2Z0U</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGMGRiUE5OcEVvMm8</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSEdIZVRYcTNYems</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGUmx4SUEzUV9iQW8</item>
+    </array>
+    <array name="civil_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGUkwxR3VsMHRONWFPSm55Y3dnOGFBTkkzQ2pR</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGZjBmZDE1N2lXcXBuQkpRVzJKUmVGSkotVkxN</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGN3JXa05jMnpFenI4QkVydlNXMHlUQklBSFJR</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQmE1NnFGODZteTNoM0k2SmVVSVgzQVUxc253</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGX2JJZGMxX19VWWs</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGM3VrSWF2VTVEdms</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGWFhqaVFPSExMNzg</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVFRQNHZXZ2pQd1U</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGNWdDbm44dTF0ZXM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGWm1RRTg5aW1HOTgN</item>
+    </array>
+    <array name="computer_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGbExYcW4wTmt6bDNpSGxjd01ZM1Ewa1VWUm1F</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGZDI3NWhPbl9sc3ZxR09kVHE4TFplWlJ5bHpn</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGOG1nQXppc1YySzlXdDhvX2d1eF82Z1Jrdm9n</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGOHVCMnBqT0pqYk1Hc3BJczA4TGE0T1FCeERB</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQjVjNDhYdFFzNDA</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaDFMZlZSckpsUVk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGbVJaVmVPTWhnUFk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQ0JwVFlONVFzQ2cN</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGNFhiX0hKV3dvd2M</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGZEdMQmwteDdsc1U</item>
+    </array>
+    <array name="consitution_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGNVQ3TlJMS3lxbDQ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGc2tHN1Fnb1I3a3M</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGcVd3QlR1ZlRkYVk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGOW9tWGxEOHhNQ09XdG1TeU8zdnV5YlloLVdr</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGUF9ndTRDQ0hSeXc</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGcy16UEZWYVJlZFE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVWxsbV9iSmE4SVUE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGb2pPY3lEaEFUclE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGVTdTaDZVSXFSSnM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYmVseEEwVnBSczg</item>
+    </array>
+    <array name="electrical_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGMy01UnZlVWY4TjVXekNxLUdscVNIS3pyelY0</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGZWVINTVvZjl3WFA4SEMtRUE3U3FDNzNIVTRJ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGN1daX3ktcGFEdTBodm1nM0V3TlhZQUVOdlNr</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGdzM0UW9mV2RwUUJCTHJ1b21ILXlkRC1BMGNr</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSWpJcHk3M1BwRk0</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGcldVWW0xX1dXT1U</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTmZMMEhNSWJpNE0</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGRGJUbjFFVzFNYkE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGalNVd2JjYXNMWUU</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGMFNPTEtBZUhGRFE</item>
+    </array>
+    <array name="electronics_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaWRqODVBdE1rSUk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGY2xQUC1BOXJmUmM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGd1RBejVmbTBlUUU</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGOTF1aldFZVNpU1dILTYtOEg0S2lSZXd0Rng4</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQ3dSdHY3MTFzdzg</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGN2VxTGlBZTRjSUk</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYWV3WjNPS3dXemc</item>
+    </array>
+    <array name="evs_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGY0FsSzVFNnFmR0U</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGUEFRazJ5ZnBQMHc</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYkdwUG0ySy14VHdpa2lJUExyQWl0WkZSaGVj</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGcVdOOXREaUkySzAN</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGdnBsVkJ5Vl9aR2c</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGRGMtNmliekJVVlk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGNzdLd09TdnE4RUk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGcjFfSW1UcjZCRVE</item>
+    </array>
+    <array name="kannada_kali">
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="kannada_kali_Notes">
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="kannada_kali_question_papers">
+        <item />
+        <item />
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;SIE 2017-JAN</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGSi1RZ0RFVTBnNFU</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaDFMZlZSckpsUVk</item>
+        <item />
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGc1N6OUNnWVhNdEk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGdHBNSE14RGdONWc</item>
+    </array>
+    <array name="kannada_manasu_question_papers">
+        <item />
+        <item />
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;SIE 2017-JAN</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGc0s5UXlxZWZhRmc</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGcnFkNkh0NWQtRXM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGNkFFS3JpNGtPNU0</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQTJxSHpKSUF6U1k</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGUmVIc3ByWERVUU0</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGM28wWEN3ZmZ2cTg</item>
+    </array>
+    <array name="maths1_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQWRrdGJpYWlzcXRvMmEyV0VXYk5mZnVXRjJj</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQnAyT1o1UHoxQWZkajctc0J5VHROYnVMWFln</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGR0ZFb0NrelZSMWp2S0NhWFRBalFFMzRER0Jv</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGbDNIUWF0eDdjNWlyNjNtYzFDZGJyMlY3NFJr</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTDBfOGFPaHZkazg</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGWUhyQ0JIdGhHdWs</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYUJoUFFjY0JRRW8</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGRW8yWnpqTnFqbWs</item>
+    </array>
+    <array name="maths2_question_papers">
+        <item />
+        <item />
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;SIE 2017-JAN</item>
+        <item>https://drive.google.com/uc?export=download&amp;?id=0BxbwI8E5xyzGZGUxc0I1dEdEbTA</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGOUl5WlpBclFQMU0</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGWGw2TFRwVm5HWkU</item>
+        <item />
+    </array>
+    <array name="mechanical_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGZXBwMTRnVUN6Snc</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTFZWWHBuYmZTckE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTDl2Wk5WQndyUlE</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGaFNhd3c5UkpaSEk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGOXNCTk50bzluNzA</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTDVJdGs1TzB3MWM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGeVZQTmlCUzI3cjA</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGQV9mT0lsRWlYLWc</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGUDBMZXdDVVlGWGs</item>
+        <item>https://drive.google.com/uc?export=download&amp;?id=0BxbwI8E5xyzGeEZLSTBBTEV1ems</item>
+    </array>
+    <array name="physics_quesion_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGWXVNMVV3TUh3X0lkM1JSOU5RZUE0NXVWSk1j</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGRHB5NWN4VlRsVlQxZGZjY3VCbS1pQTZCdzhF</item>
+        <item />
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGMTRfR0h6OVFnMXluR2VQWEU5X3NCRG1SUHB3</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTUtiZ2JOa1oyMjQ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGb3pZbHhiSEdTZTA</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGRGMtNmliekJVVlk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGUUhIZ08xd2Z5aDg</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGbG9NN0V0TmRLUmM</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYV83cnRma1ZJanc</item>
+    </array>
+    <array name="professional_communication_question_papers">
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGR3c4NjdTTlJMR1k4Q0hyWkUySERYRy1zYWFn</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGa0o5VXZBb195S0gwS0g4cnRYUU05bGJLUXBn</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTXJhbzBGTFRhcGE5Tk5kTUp2OWR5SlhyYTNZ</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGcEIxbHRCUjBUOW9ud290LTk0cWtqV1draFVV</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGeGFxSFhXeUE5dUU</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGekc3NWNidzlZbWs</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGTDFrTnVvRGxPeUk</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGYktPY0VJemxIM1k</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGZ1diR2hiZHpGZlU</item>
+        <item>https://drive.google.com/uc?export=download&amp;id=0BxbwI8E5xyzGdHBNSE14RGdONWc</item>
+    </array>
+    <array name="subject_names">
+        <item>Engineering Physics</item>
+        <item>Basic Civil Engineering and Mechanics</item>
+        <item>Basic Electrical Engineering</item>
+        <item>Fundamentals of Computing</item>
+        <item>Professional Communication</item>
+        <item>Engineering Mathematics – II</item>
+        <item>Engineering Chemistry</item>
+        <item>Elements of Mechanical Engineering</item>
+        <item>Basic Electronics Electronics Communication Engineering</item>
+        <item>Constitution of India Professional Ethics</item>
+        <item>Environmental Studies</item>
+    </array>
+</resources>
